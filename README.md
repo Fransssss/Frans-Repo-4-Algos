@@ -38,7 +38,7 @@ https://USERNAME.github.io
 	</video>
 </div>
 
-This short screencast walks through the landing page layout, highlights each algorithm card, and clicks a sample repository link to show how the portfolio opens implementations in new tabs.
+This short screencast walks through the landing page layout, highlights each algorithm card, and clicks a sample repository link to show how the portfolio opens implementations in new tabs. If the embedded player does not load in your viewer, open the `ProjectDemo.mp4` file included in the repository root.
 
 ## Technologies Used
 - HTML
