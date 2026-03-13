@@ -28,7 +28,7 @@ Repository: https://github.com/Fransssss/vertex-cover-heuristic.git
 ## How to View the Portfolio
 The site is published via GitHub Pages. After pushing the latest `index.html`, visit:
 ```
-https://USERNAME.github.io
+https://fransssss.github.io/Frans-Repo-4-Algos/
 ```
 
 ## Video Demo
