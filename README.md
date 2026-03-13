@@ -33,7 +33,13 @@ https://USERNAME.github.io
 Replace `USERNAME` with the GitHub account that owns the repository to see the live portfolio.
 
 ## Video Demo
-Embed or link a short screencast that walks through the portfolio layout, highlights each card, and shows how the repository links open in new tabs. The video helps reviewers quickly understand the navigation flow without cloning the repo.
+<div align="center">
+	<video src="ProjectDemo.mp4" controls width="640">
+		Your browser does not support the video tag. Download the walkthrough below.
+	</video>
+</div>
+
+This short screencast walks through the landing page layout, highlights each algorithm card, and clicks a sample repository link to show how the portfolio opens implementations in new tabs.
 
 ## Technologies Used
 - HTML
