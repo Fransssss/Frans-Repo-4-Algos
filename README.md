@@ -30,7 +30,6 @@ The site is published via GitHub Pages. After pushing the latest `index.html`, v
 ```
 https://USERNAME.github.io
 ```
-Replace `USERNAME` with the GitHub account that owns the repository to see the live portfolio.
 
 ## Video Demo
 <div align="center">
