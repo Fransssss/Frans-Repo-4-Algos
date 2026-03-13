@@ -25,8 +25,7 @@ Repository: https://github.com/Fransssss/longest-common-subsequence-dynamic-prog
 NP / Heuristic Algorithm  
 Repository: https://github.com/Fransssss/vertex-cover-heuristic.git
 
-## How to View the Portfolio
-The site is published via GitHub Pages. After pushing the latest `index.html`, visit:
+## How to View the Portfolio (Published via Github)
 ```
 https://fransssss.github.io/Frans-Repo-4-Algos/
 ```
